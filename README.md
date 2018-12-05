@@ -1,3 +1,4 @@
-# recommendation_system_proj
+# Recommendation System
 
-final project in web information management course
+
+A movie recommendation system based on user ratings written in python
